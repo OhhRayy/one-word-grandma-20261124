@@ -6,7 +6,10 @@ same word, byte for byte, on every run. The word was chosen for the
 judge's brief: a real word a grandma would actually reach for when
 faced with a machine that talks back - "witchcraft" is funny because
 it is exactly how she would explain it, and grandma-like because it
-comes from her world, not from tech. 10 characters, one word.
+comes from her world, not from tech. It beats the alternatives:
+"Skynet" is a film reference, not something she would text, and a
+typo like "robit" is cute but says nothing about what she thinks AI
+is. 10 characters, one word.
 """
 
 import os
